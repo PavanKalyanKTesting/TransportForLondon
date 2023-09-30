@@ -1,0 +1,15 @@
+  {
+    "URL": "https://tfl.gov.uk/",
+    "ValidLocation": {
+      "From": "Wood Green Shopping City",
+      "To": "Southgate Underground Station"
+    },
+    "InvalidLocation": {
+      "From": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "To": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    },
+    "EditLocation": {
+      "From": "The British Museum",
+      "To": "National Theatre"
+    }
+  }

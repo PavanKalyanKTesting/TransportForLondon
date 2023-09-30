@@ -29,7 +29,6 @@ namespace TransportForLondon.Utility
 
             _extentReport = new ExtentReports();
             _extentReport.AttachReporter(htmlReporter);
-            _extentReport.AddSystemInfo("NAME", "TFL Project");
             _extentReport.AddSystemInfo("Application", "Transport For London");
             _extentReport.AddSystemInfo("Browser", "Chrome");
             _extentReport.AddSystemInfo("OS", "Windows");
